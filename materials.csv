@@ -1,0 +1,16 @@
+name,strength,weight,cost,temp_limit,corrosion,hardness
+Steel,500,7.8,50,500,6,7
+Aluminum,300,2.7,70,300,8,5
+Titanium,900,4.5,150,600,9,9
+Plastic,100,1.2,20,100,7,2
+Copper,200,8.9,80,250,8,4
+Brass,250,8.5,90,300,7,5
+Composite,700,1.8,200,400,9,8
+Magnesium,200,1.7,120,200,6,4
+Cast Iron,400,7.2,40,450,5,6
+Stainless Steel,600,7.9,100,600,10,8
+Carbon Fiber,800,1.6,250,350,9,9
+Nickel Alloy,750,8.2,180,700,10,9
+Bronze,300,8.8,110,300,8,6
+Glass,150,2.5,60,200,9,3
+Rubber,50,1.1,30,120,7,1
